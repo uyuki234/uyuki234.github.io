@@ -1,0 +1,11 @@
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
+title: "uyuki234"
+description: "I'm interested in Security and Network"
+logo: img/uyuki234.jpg
+
+twitter:
+  username: uyuki234
