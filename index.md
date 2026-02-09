@@ -24,9 +24,12 @@
 ## Skills
 
 ### ● **Programming**
-- **Languages**: Python, C#, Go, C++
+- **Languages**: Go, Python, C#
 - **Frontend Development**
   - ハッカソンで複数開発
+
+### ● **Network**
+- **NOC**: NeGI NOC L2/L3 (ChuNOG 7 Meeting)
 
 ---
 
@@ -40,7 +43,9 @@
 ---
 
 ### ● Others
-- 高2まではイラストを描いていました
+- イラストを描ける
+- TOEIC L&R 635
+- TOEIC S&W 260
 
 ---
 
@@ -52,9 +57,9 @@
 ---
 
 ## Community
+### ● Yaken
 ### ● あまてく
 ### ● GDG on Campus University of Osaka
-### ● Yaken
 ### ● Tech hack
 
 ---
