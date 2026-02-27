@@ -56,6 +56,8 @@ X [@uyuki234](https://x.com/uyuki234) GitHub [@uyuki234](https://github.com/uyuk
 ### ● GDG on Campus University of Osaka
 ### ● Tech hack
 
+---
+
 ## Acieves
 - 2026/02 **KC3Hack 最優秀賞**
 - 2025/11 **58Hackathon ゴネンゴ特別賞**
