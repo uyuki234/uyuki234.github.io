@@ -29,16 +29,18 @@ X [@uyuki234](https://x.com/uyuki234) GitHub [@uyuki234](https://github.com/uyuk
 ## Skills
 
 ### ● **Programming**
-- **Languages**: Go, Python, C
+- **Languages**: C, C++, Go, Python
 - **Frontend Development**
   - ハッカソンで複数開発
 
 ---
 
 ## Activities
-- 2026/03           **セキュリティキャンプミニ 2025 大阪**
-- 2026/01 ~ 2026/02 **ChuNOG 7 Meeting NOC L2/L3(BB)**
-- 2025/09           **セキュリティキャンプミニ 2025 香川**
+- 2026/05           **[クラウドネイティブ会議 NOC (Server)](https://kaigi.cloudnativedays.jp/#staff)**
+- 2026/04           **[Build with AI Kansai 2026 NOC - Google Developer Group](https://gdgkwansai.connpass.com/event/381901/)**
+- 2026/03           **[セキュリティキャンプミニ 2025 大阪](https://www.security-camp.or.jp/minicamp/osaka2026.html)**
+- 2026/01 ~ 2026/02 **[ChuNOG 7 Meeting NOC L2/L3(BB)](https://chunog.connpass.com/event/368386/)**
+- 2025/09           **[セキュリティキャンプミニ 2025 香川](https://www.security-camp.or.jp/minicamp/kagawa2025.html)**
 
 ---
 
