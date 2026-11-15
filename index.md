@@ -1,7 +1,7 @@
 # uyuki (@uyuki234)
 
-自作CPU、自作OS、自作Cコンパイラ、FPGAなど<br>
-コンピュータと仲良くなりたい<br>
+自作CPU、自作OS、自作コンパイラ、FPGAなど  
+コンピュータと仲良くなりたい  
 今の目標は全てを自作すること！
 
 ## 自己紹介
@@ -17,8 +17,7 @@
 
 ## リンク集
 
-[X](https://x.com/uyuki234) / [GitHub](https://github.com/uyuki234) / [Blog](https://uyuki234.hatenablog.com/)  
-[Slides](https://speakerdeck.com/uyuki234) / [Scrapbox](https://scrapbox.io/uyuki234/)
+[X](https://x.com/uyuki234) / [GitHub](https://github.com/uyuki234) / [Blog](https://uyuki234.hatenablog.com/) / [Slides](https://speakerdeck.com/uyuki234) / [Scrapbox](https://scrapbox.io/uyuki234/)
 
 ## 資格・検定
 
