@@ -1,5 +1,11 @@
 # uyuki234.github.io
 
-実際に動いてるページ  
-https://uyuki234.github.io/  
-190KBくらいで軽いです！
+https://uyuki234.github.io/
+
+`index.md` を編集後、PowerShell 7で実行します。
+
+```powershell
+pwsh -File ./scripts/build.ps1 -Open
+```
+
+生成された `index.html` も一緒にコミット・pushします。
