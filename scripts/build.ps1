@@ -12,6 +12,9 @@ ConvertFrom-Markdown -InputObject '' | Out-Null
 $builder = [Markdig.MarkdownPipelineBuilder]::new()
 [Markdig.MarkdownExtensions]::UseAutoIdentifiers($builder, [Markdig.Extensions.AutoIdentifiers.AutoIdentifierOptions]::GitHub) | Out-Null
 $pipeline = $builder.Build()
+$introSection = [regex]::Match($markdown, '(?ms)\A(?<intro>.*?)(?=^## |\z)')
+$intro = [Markdig.Markdown]::ToHtml($introSection.Groups['intro'].Value, $pipeline, $null).Trim()
+$markdown = $markdown.Remove($introSection.Index, $introSection.Length)
 $linksSection = [regex]::Match($markdown, '(?ms)^## リンク集[ \t]*\r?\n(?<links>.*?)(?=^## |\z)')
 $links = ''
 if ($linksSection.Success) {
@@ -23,7 +26,7 @@ $content = [Markdig.Markdown]::ToHtml($markdown, $pipeline, $null)
 if (-not $template.Contains('{{content}}')) {
     throw 'The template must contain {{content}}.'
 }
-$html = $template.Replace('{{content}}', $content.Trim()).Replace('{{links}}', $links)
+$html = $template.Replace('{{content}}', $content.Trim()).Replace('{{intro}}', $intro).Replace('{{links}}', $links)
 $outputPath = Join-Path $projectRoot 'index.html'
 [System.IO.File]::WriteAllText($outputPath, $html, [System.Text.UTF8Encoding]::new($false))
 Write-Host "Built $outputPath"
