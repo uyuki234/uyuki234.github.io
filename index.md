@@ -17,11 +17,8 @@
 
 ## リンク集
 
-- [X](https://x.com/uyuki234)
-- [GitHub](https://github.com/uyuki234)
-- [Blog](https://uyuki234.hatenablog.com/)
-- [Slides](https://speakerdeck.com/uyuki234)
-- [Scrapbox](https://scrapbox.io/uyuki234/)
+[X](https://x.com/uyuki234) / [GitHub](https://github.com/uyuki234) / [Blog](https://uyuki234.hatenablog.com/)  
+[Slides](https://speakerdeck.com/uyuki234) / [Scrapbox](https://scrapbox.io/uyuki234/)
 
 ## 資格・検定
 
